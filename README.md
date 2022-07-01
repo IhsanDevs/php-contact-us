@@ -1,6 +1,6 @@
-![Demo](/assets/demo/demo.png)
+![Demo](assets/demo/demo.png)
 
-## [# Installation](#installation)
+## # Installation
 
 ```bash
 composer install
@@ -15,11 +15,17 @@ cp .env.example .env
 # or you can manual copy paste file .env.example to .env if this command doesn't working.
 ```
 
-## [# Debugging](#debugging)
+## # Debugging
 
 ```bash
 php -S localhost:port
 ```
+
+## # Video Demo
+
+[![demo](assets/demo/demo_play.png)](https://www.youtube.com/watch?v=oAHHn8zVMLE)
+
+
 
 ## # Requirements
 

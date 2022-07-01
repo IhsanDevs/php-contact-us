@@ -284,11 +284,11 @@ init();
                                 <div data-alerts="alerts"></div>
 
 
-                                <div class="mb-3"><input class="form-control" type="text" id="name" name="name"
+                                <div class="mb-3"><input class="form-control" autocomplete="off" type="text" id="name" name="name"
                                         placeholder="Name"></div>
-                                <div class="mb-3"><input class="form-control" type="email" id="email" name="email"
+                                <div class="mb-3"><input class="form-control" type="email" id="email" autocomplete="off" name="email"
                                         placeholder="Email"></div>
-                                <div class="mb-3"><textarea class="form-control" id="message" name="message" rows="6"
+                                <div class="mb-3"><textarea class="form-control" id="message" autocomplete="off" name="message" rows="6"
                                         placeholder="Message"></textarea></div>
                                 <div><button class="btn btn-primary d-block w-100" type="submit">Send </button></div>
                             </form>
